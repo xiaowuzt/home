@@ -1,13 +1,13 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Book",
+    "name": "MC百科",
+    "link": "https://www.mcmod.cn/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "整合包",
+    "link": "https://www.123865.com/s/OJ56Vv-kEpl"
   },
   {
     "icon": "CompactDisc",
@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "http://mingze.work.gd/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "我的世界官网",
+    "link": "https://www.minecraft.net/zh-hans"
   },
   {
     "icon": "Fire",
@@ -30,8 +30,19 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Book",
+    "name": "GitHub下载加速",
+    "link": "https://github.akams.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "我的世界导航网",
+    "link": "https://www.mcnav.net/"
+  },
+  {
+    "icon": "Book",
+    "name": "皮肤站",
+    "link": "https://littleskin.cn/skinlib?filter=skin&sort=time&page=1"
   }
 ]
+
